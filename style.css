@@ -1,0 +1,14 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 40px;
+    background-color: #ffff;
+}
+
+button{
+    padding: 8px 20px;
+    background-color: #dfdfe6;
+    color: rgb(0, 0, 0);
+    border:2px solid #d3d3d8;
+    border-radius: 20px;
+
+}
